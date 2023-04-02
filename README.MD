@@ -1,3 +1,6 @@
+<p align="center" >
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Sanvi khan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
