@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **html,css,Sass,booststrap,react,node,express,mongodb**
+- 💬 Ask me about **html,css,Sass,bootstrap,react,node,express,mongodb**
 
 - 📫 How to reach me **refilekhansunve@gmail.com**
 
